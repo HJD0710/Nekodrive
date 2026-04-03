@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Neko drive — Privacy Policy</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+           line-height: 1.65; max-width: 44rem; margin: 0 auto; padding: 1.5rem 1rem 3rem; }
+    h1 { font-size: 1.5rem; margin: 0 0 0.25rem; }
+    .meta { font-size: 0.9rem; opacity: 0.75; margin-bottom: 1rem; }
+    nav { font-size: 0.9rem; margin-bottom: 1rem; }
+    nav a { margin-right: 0.75rem; }
+    h2 { font-size: 1.15rem; margin-top: 2rem; }
+    p { margin: 0.6rem 0; }
+    .card { border: 1px solid rgba(127,127,127,0.25); border-radius: 10px; padding: 0.9rem 1rem; }
+    .email { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+  </style>
+</head>
+<body>
+  <nav class="card">
+    <strong>Languages:</strong>
+    <a href="#zh">中文</a>
+    <a href="#ja">日本語</a>
+    <a href="#en">English</a>
+    <a href="#vi">Tiếng Việt</a>
+    <a href="#ne">नेपाली</a>
+    <a href="#my">မြန်မာ</a>
+  </nav>
+
+  <h1>Privacy Policy</h1>
+  <div class="meta">App: <strong>Neko drive</strong> · Effective: <strong>April 3, 2026</strong> · Contact: <span class="email">Hjd999@outlook.com</span></div>
+
+  <h2 id="zh">中文</h2>
+  <div class="card">
+    <p><strong>生效日期：</strong>2026年4月3日 · <strong>应用名称：</strong>Neko drive</p>
+    <p>本应用尊重并保护用户隐私。本政策适用于应用「Neko drive」。</p>
+    <p><strong>1. 不收集个人信息：</strong>本应用不主动收集可用于识别你身份的个人信息。</p>
+    <p><strong>2. 本地数据：</strong>语言设置、练习/考试记录等数据仅保存在你的设备本地（如适用）。</p>
+    <p><strong>3. 内购说明：</strong>如你购买会员，支付与购买记录由 Apple App Store 处理，我们无法获取你的银行卡信息或支付账号信息。</p>
+    <p><strong>4. 第三方服务：</strong>除 Apple 提供的购买与验证能力外，本应用不接入第三方广告或数据分析服务（如适用）。</p>
+    <p><strong>5. 联系我们：</strong><span class="email">Hjd999@outlook.com</span></p>
+  </div>
+
+  <h2 id="ja">日本語</h2>
+  <div class="card">
+    <p><strong>施行日：</strong>2026年4月3日 · <strong>アプリ名：</strong>Neko drive</p>
+    <p>本プライバシーポリシーは「Neko drive」に適用されます。</p>
+    <p><strong>1. 個人情報の収集なし：</strong>本アプリは、個人を特定できる情報を積極的に収集しません。</p>
+    <p><strong>2. 端末内保存：</strong>言語設定や学習/試験履歴などは、端末内にのみ保存されます（該当する場合）。</p>
+    <p><strong>3. アプリ内課金：</strong>VIP購入時の決済および購入履歴は Apple App Store が処理します。当方は支払い情報を取得できません。</p>
+    <p><strong>4. 第三者サービス：</strong>Apple の購入・検証機能以外に、広告や解析サービスを利用しません（該当する場合）。</p>
+    <p><strong>5. お問い合わせ：</strong><span class="email">Hjd999@outlook.com</span></p>
+  </div>
+
+  <h2 id="en">English</h2>
+  <div class="card">
+    <p><strong>Effective Date:</strong> April 3, 2026 · <strong>App Name:</strong> Neko drive</p>
+    <p>This Privacy Policy applies to the app “Neko drive”.</p>
+    <p><strong>1. No personal data collection:</strong> The app does not actively collect personally identifiable information.</p>
+    <p><strong>2. Local storage:</strong> Settings and practice/exam history are stored locally on your device (if applicable).</p>
+    <p><strong>3. In-app purchases:</strong> Payments and purchase records are processed by Apple App Store. We do not have access to your payment details.</p>
+    <p><strong>4. Third-party services:</strong> Except for Apple’s purchase/verification services, the app does not use third-party ads or analytics (if applicable).</p>
+    <p><strong>5. Contact:</strong> <span class="email">Hjd999@outlook.com</span></p>
+  </div>
+
+  <h2 id="vi">Tiếng Việt</h2>
+  <div class="card">
+    <p><strong>Ngày hiệu lực:</strong> 3/4/2026 · <strong>Tên ứng dụng:</strong> Neko drive</p>
+    <p>Chính sách này áp dụng cho ứng dụng “Neko drive”.</p>
+    <p><strong>1. Không thu thập dữ liệu cá nhân:</strong> Ứng dụng không chủ động thu thập thông tin nhận dạng cá nhân.</p>
+    <p><strong>2. Lưu trữ cục bộ:</strong> Cài đặt và lịch sử luyện tập/thi được lưu trên thiết bị (nếu có).</p>
+    <p><strong>3. Mua trong ứng dụng:</strong> Thanh toán do Apple App Store xử lý; chúng tôi không truy cập thông tin thanh toán.</p>
+    <p><strong>4. Dịch vụ bên thứ ba:</strong> Ngoài dịch vụ mua/xác minh của Apple, chúng tôi không dùng quảng cáo hay phân tích (nếu có).</p>
+    <p><strong>5. Liên hệ:</strong> <span class="email">Hjd999@outlook.com</span></p>
+  </div>
+
+  <h2 id="ne">नेपाली</h2>
+  <div class="card">
+    <p><strong>प्रभावित मिति:</strong> 2026-04-03 · <strong>एप नाम:</strong> Neko drive</p>
+    <p>यो गोपनीयता नीतिम “Neko drive” मा लागू हुन्छ।</p>
+    <p><strong>1. व्यक्तिगत जानकारी संकलन गर्दैनौँ:</strong> एपले पहिचान गर्न सकिने व्यक्तिगत जानकारी सक्रिय रूपमा संकलन गर्दैन।</p>
+    <p><strong>2. स्थानीय भण्डारण:</strong> सेटिङ र अभ्यास/परीक्षा इतिहास उपकरणमै रहन्छ (लागू भएमा)।</p>
+    <p><strong>3. इन-एप खरिद:</strong> भुक्तानी Apple App Store ले प्रक्रिया गर्छ; हामी भुक्तानी विवरण पहुँच गर्न सक्दैनौँ।</p>
+    <p><strong>4. तेस्रो पक्ष सेवा:</strong> Apple बाहेक विज्ञापन/विश्लेषण सेवा प्रयोग गर्दैनौँ (लागू भएमा)।</p>
+    <p><strong>5. सम्पर्क:</strong> <span class="email">Hjd999@outlook.com</span></p>
+  </div>
+
+  <h2 id="my">မြန်မာ</h2>
+  <div class="card">
+    <p><strong>အကျိုးသက်ရောက်မည့်နေ့စွဲ：</strong> ၃ ဧပြီ ၂၀၂၆ · <strong>အပ်အမည်：</strong> Neko drive</p>
+    <p><strong>၁။ ကိုယ်ရေးအချက်အလက် မစုဆောင်းပါ။</strong></p>
+    <p><strong>၂။ စက်တွင်းသိမ်းဆည်းမှု</strong> — ဘာသာစကားနှင့် လေ့ကျင့်/စာမေးပွဲ မှတ်တမ်းများကို သင့်စက်တွင်သာ သိမ်းဆည်းသည် (လိုအပ်သလို)။</p>
+    <p><strong>၃။ အပ်အတွင်းဝယ်ယူမှု</strong> — Apple App Store က ငွေပေးချေမှုနှင့် ဝယ်ယူမှတ်တမ်းများကို စီမံဆောင်ရွက်သည်။ ကျွန်ုပ်တို့သည် ပေးချေမှုအချက်အလက်များကို မရယူနိုင်ပါ။</p>
+    <p><strong>၄။ တတိယပါတီဝန်ဆောင်မှု</strong> — Apple ၏ ဝယ်ယူ/အတည်ပြုမှု မှလွဲ၍ ကြော်ငြာ သို့ ဒေတာခွဲခြမ်းစိတ်ဖြာ မသုံးပါ (လိုအပ်သလို)။</p>
+    <p><strong>၅။ ဆက်သွယ်ရန် —</strong> <span class="email">Hjd999@outlook.com</span></p>
+  </div>
+</body>
+</html>
